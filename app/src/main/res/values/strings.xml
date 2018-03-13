@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">EclipseToStudio</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="你好hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
