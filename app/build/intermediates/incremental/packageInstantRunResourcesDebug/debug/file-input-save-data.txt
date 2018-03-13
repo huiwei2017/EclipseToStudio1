@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Tue Mar 13 10:09:06 CST 2018
+1.base=/Users/hw/Documents/androidproject/EclipseToStudio1/app/build/intermediates/res/debug/resources-debug.ap_
+4.file=/Users/hw/Documents/androidproject/EclipseToStudio1/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/activity_main.xml
+1.file=/Users/hw/Documents/androidproject/EclipseToStudio1/app/build/intermediates/res/debug/resources-debug.ap_/resources.arsc
+4.set=ANDROID_RESOURCE
+2.base=/Users/hw/Documents/androidproject/EclipseToStudio1/app/build/intermediates/res/debug/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/hw/Documents/androidproject/EclipseToStudio1/app/build/intermediates/res/debug/resources-debug.ap_/AndroidManifest.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/hw/Documents/androidproject/EclipseToStudio1/app/build/intermediates/res/debug/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/hw/Documents/androidproject/EclipseToStudio1/app/build/intermediates/res/debug/resources-debug.ap_
+3.file=/Users/hw/Documents/androidproject/EclipseToStudio1/app/build/intermediates/res/debug/resources-debug.ap_/res/menu/main.xml
+0.file=/Users/hw/Documents/androidproject/EclipseToStudio1/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+4.base=/Users/hw/Documents/androidproject/EclipseToStudio1/app/build/intermediates/res/debug/resources-debug.ap_
